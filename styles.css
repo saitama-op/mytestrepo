@@ -1,0 +1,9 @@
+/* styles.css file */
+body {
+  background-color: #f0f0f0; /* Sets a light gray background for the entire page */
+  color: #333;             /* Sets the default text color to dark gray */
+  font-family: Arial, Helvetica, sans-serif; /* Sets the default font */
+  margin: 20px;            /* Adds a 20px margin around the body content */
+  padding: 0;              /* Ensures no extra padding is added */
+  line-height: 1.6;        /* Improves readability by setting line spacing */
+}
